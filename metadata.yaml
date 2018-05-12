@@ -1,0 +1,34 @@
+_repo: Racconti-fantastici_28867
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tarchetti, Iginio Ugo
+    aliases:
+    - Tarchetti, Igino Ugo
+    - Tarchetti, I. U. (Iginio Ugo)
+    birthdate: 1841
+    deathdate: 1869
+    gutenberg_agent_id: '33315'
+    url: http://www.gutenberg.org/2009/agents/33315
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2009-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28867'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Fantasy fiction, Italian'
+tableOfContents: 'Racconti Fantastici: I fatali. leggende del castello nero. La lettera
+  U. Un osso di morto. Lo spirito in un lampone -- Pensieri: L''amore. La donna. Felicità
+  e dolore. La vita. La fede. Pensieri diversi.'
+title: Racconti fantastici
+url: http://www.gutenberg.org/ebooks/28867
